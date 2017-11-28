@@ -1,0 +1,7 @@
+package testSprite;
+
+import javax.swing.JPanel;
+
+public class ImagePanel2 extends JPanel {
+
+}
